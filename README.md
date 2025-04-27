@@ -3,7 +3,7 @@
 
 **`Desenvolvedor front end`**
 
-Me chamo Vitor do Nascimento Justino, tenho 21 anos e sou do Rio de Janeiro. Estou cursando Análise e Desenvolvimento de Sistemas na Unisuam, buscando sempre entregar o meu melhor.
+Estudante de Análise e Desenvolvimento de Sistemas na unisuam, em busca de crescimento na área de tecnologia e desenvolvimento de software.
 ---
 
 ### 🤖 Linguagens e Tecnologias

@@ -16,7 +16,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 
-<h3 align="left">conecte-se comigo!</h3>
+<h3 align="left">Conecte-se comigo!</h3>
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:vitorjustino980@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/vitor-justino/)

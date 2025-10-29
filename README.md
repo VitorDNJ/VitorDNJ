@@ -36,7 +36,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 ### 📊 Estatísticas
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitordnj&show_icons=true&theme=dark) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDNJ&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorDNJ&show_icons=true&theme=dark) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDNJ&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9) |
 | --- | --- |
 #
 

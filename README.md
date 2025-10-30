@@ -2,18 +2,18 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=red&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+bem+vindos+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=blue&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+bem+vindos+ao+meu+perfil!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
 </div>
 
 #
 
-<p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Unisuam localizada em bonsucesso. 
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia. 
+<p align="center"> <b>Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Unisuam localizada em bonsucesso. 
+Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p></b> 
 
 #
 
-
+<img align="right" alt="" height="105px" src="./src/vt.gif">
 <h3 align="left">Conecte-se comigo!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-justino/)

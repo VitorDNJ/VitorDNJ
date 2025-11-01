@@ -36,8 +36,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 ### 📊 Estatísticas
-| ![VitorDNJ GitHub Stats](https://github-README-stats.vercel.app/api?username=VitorDNJ&show_icons=true&theme=merko&include_allcommits=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDNJ&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9) |
+| ![VitorDNJ GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorDNJ&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDNJ&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=10&count_private=true&cache_seconds=7200) |
 | --- | --- |
+
+#
 
 ## 🐍 Snake Game 
 <picture align="center">

@@ -36,9 +36,10 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 #
 
 ### 📊 Estatísticas
-| ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VitorDNJ&show_icons=true&theme=dark) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDNJ&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9) |
-| --- | --- |
-#
+<p align="center">
+<img width="480px" src="https://github-readme-stats.vercel.app/api?username=VitorDNJ&show_icons=true&include_all_commits=true&theme=merko" alt="VitorDNJ :: Profile Stats" />
+<img width="366px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDNJ&langs_count=16&theme=merko&layout=compact" alt="VitorDNJ :: TopLangs" />
+</p>
 
 ## 🐍 Snake Game 
 <picture align="center">

@@ -13,7 +13,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
-<img align="right" alt="" height="105px" src="./src/vt.gif">
+<img align="right" alt="" height="105px" src="./src/vt2.gif">
 <h3 align="left">Conecte-se comigo!</h3>
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-justino/)

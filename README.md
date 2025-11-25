@@ -30,14 +30,25 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" />
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="35" />
+</div>
+
+<div>
   
+  #  🧠 Outros conhecimentos
+  
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="35"  />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35"  />
+
+
+
 </div>
 
 #
 
 ### 📊 Estatísticas
-| ![VitorDNJ GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorDNJ&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br) | ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=VitorDNJ&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=10&count_private=true&cache_seconds=7200) |
-| --- | --- |
+![VitorDNJ GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorDNJ&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br) 
+
 
 #
 

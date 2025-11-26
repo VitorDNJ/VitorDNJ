@@ -1,4 +1,4 @@
-## Olá! Eu sou o vitor
+## Olá! Me chamo vitor
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -41,13 +41,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35"  />
 
 
-
 </div>
-
-#
-
-### 📊 Estatísticas
-![VitorDNJ GitHub Stats](https://github-readme-stats.vercel.app/api?username=VitorDNJ&show_icons=true&theme=merko&include_all_commits=true&count_private=true&locale=pt-br) 
 
 
 #

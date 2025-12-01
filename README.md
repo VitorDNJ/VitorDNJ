@@ -22,21 +22,20 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
-<h3 align="left">👨‍💻Linguagens que estou aprendendo.</h3>
 <div style="display: inline_block"><br>
+  <h3 align="left">👨‍💻Linguagens que estou aprendendo.</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35"  />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="35" />
-
 </div>
 
+#
+
 <div>
-  
-  #  🧠 Outros conhecimentos
-  
+  <h3> 🧠 Outros conhecimentos </h3>   
   <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="35"  />
   <img src="https://img.shields.io/badge/%20Word-2B579A.svg?style=for-the-badge&logo=word&logoColor=white" height="35"  />
   <img src="https://img.shields.io/badge/PowerPoint-B7472A.svg?style=for-the-badge&logo=word&logo=microsoft-powerpoint&logoColor=white" height="35"  />
@@ -47,12 +46,13 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" height="35" />
 </div>
 
-
 #
 
-## 🐍 Snake Game 
+<h3>🐍 Snake Game </h3> 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorDNJ/VitorDNJ/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorDNJ/VitorDNJ/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VitorDNJ/VitorDNJ/output/github-contribution-grid-snake.svg">
 </picture>
+
+#

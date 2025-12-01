@@ -13,12 +13,13 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
 
 #
 
-<img align="right" alt="" height="105px" src="./src/vt2.gif">
-<h3 align="left">Conecte-se comigo!</h3>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vitor-justino/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vitorjustino980@gmail.com)
-[![Instagram](https://img.shields.io/badge/-Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:FFF)](https://www.instagram.com/eu_vt70/)
+<div>
+  <img align="right" alt="" height="105px" src="./src/vt2.gif">
+  <h3 align="left">Conecte-se comigo!</h3>
+  <a href="https://www.linkedin.com/in/vitor-justino/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>&nbsp;
+  <a href="mailto:vitorjustino980@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>&nbsp;
+  <a href="https://www.instagram.com/eu_vt70/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" height="35" /></a>
+</div>
 
 #
 

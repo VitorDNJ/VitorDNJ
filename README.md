@@ -45,6 +45,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos desafios na
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" height="35"  />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" height="35" />
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" height="35" />
+  <img src="https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=gimp&logoColor=white" height="35" />
 </div>
 
 #

@@ -8,8 +8,8 @@
 
 #
 
-<p align="center"> <b>Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Unisuam localizada em bonsucesso. 
-Estou constantemente atualizando meus conhecimentos e buscando novos desafios na área de tecnologia.</p></b> 
+<p align="center"> <b>Estudante de Gestão da Tecnologia da Informação na Faculdade Unisuam localizada em bonsucesso. 
+Focado em aprender, testar e construir.</p></b> 
 
 #
 

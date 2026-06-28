@@ -13,7 +13,6 @@ jobs:
       - uses: Platane/snk@master
         with:
           github_user_name: VitorDNJ
-
           outputs: |
             dist/pacman.svg
             dist/pacman-dark.svg?palette=github-dark

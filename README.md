@@ -4,12 +4,15 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=25&pause=1000&color=00A8FF&center=true&vCenter=true&random=false&width=524&lines=%E2%8A%B9+BEM+VINDOS+AO+MEU+PERFIL!+%CB%99%E1%B5%95%CB%99+%E2%8A%B9+" alt="Typing SVG">
   </a>
+<p align="center"> <b> Estudante de Gestão da Tecnologia da Informação na Faculdade Unisuam Localizada em Bonsucesso.
 </div>
-
+  
 #
 
-<p align="center"> <b>Estudante de Gestão da Tecnologia da Informação na Faculdade Unisuam localizada em bonsucesso,
-focado em aprender, testar e construir.</p></b> 
+<div data-importer="stats" align="center">
+  <img src="https://streak-stats.demolab.com?user=VitorDNJ&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://raw.githubusercontent.com/VitorDNJ/VitorDNJ/trophy-output/trophy.svg?theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 #
 
@@ -73,4 +76,5 @@ focado em aprender, testar e construir.</p></b>
     alt="Pac-Man Contribution Graph"
     src="https://raw.githubusercontent.com/VitorDNJ/VitorDNJ/pacman-output/pacman-contribution-graph-dark.svg">
 </picture>
+
 #

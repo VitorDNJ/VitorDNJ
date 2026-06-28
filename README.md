@@ -8,14 +8,14 @@
 
 #
 
-<p align="center"> <b>Estudante de Gestão da Tecnologia da Informação na Faculdade Unisuam localizada em bonsucesso. 
-Focado em aprender, testar e construir.</p></b> 
+<p align="center"> <b>Estudante de Gestão da Tecnologia da Informação na Faculdade Unisuam localizada em bonsucesso,
+focado em aprender, testar e construir.</p></b> 
 
 #
 
 <div>
   <img align="right" alt="" height="105px" src="./src/vt2.gif">
-  <h3 align="left">Conecte-se comigo!</h3>
+  <h3 align="left">💙 Conecte-se comigo!</h3>
   <a href="https://www.linkedin.com/in/vitor-justino/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>&nbsp;
   <a href="mailto:vitorjustino980@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>&nbsp;
   <a href="https://www.instagram.com/eu_vt70/"><img src="https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=FF00F6" height="35" /></a>
@@ -24,7 +24,7 @@ Focado em aprender, testar e construir.</p></b>
 #
 
 <div style="display: inline_block"><br>
-  <h3 align="left">👨‍💻Linguagens que estou aprendendo.</h3>
+  <h3 align="left">👨‍💻 Linguagens que estou aprendendo.</h3>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="35"  />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="35"  />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="35" />
@@ -48,13 +48,29 @@ Focado em aprender, testar e construir.</p></b>
   <img src="https://img.shields.io/badge/GIMP-5C5543.svg?style=for-the-badge&logo=gimp&logoColor=white" height="35" />
 </div>
 
+<!-- 
 #
-
-<h3>🐍 Snake Game </h3> 
+<H3> 🐍 Snake Game </h3> 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/VitorDNJ/VitorDNJ/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/VitorDNJ/VitorDNJ/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/VitorDNJ/VitorDNJ/output/github-contribution-grid-snake.svg">
-</picture>
+</picture> 
+#
+-->
+#
+<H3> 💙 Pac-Man ;) </h3> 
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/VitorDNJ/VitorDNJ/pacman-output/pacman-contribution-graph-dark.svg">
 
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/VitorDNJ/VitorDNJ/pacman-output/pacman-contribution-graph.svg">
+
+  <img
+    alt="Pac-Man Contribution Graph"
+    src="https://raw.githubusercontent.com/VitorDNJ/VitorDNJ/pacman-output/pacman-contribution-graph-dark.svg">
+</picture>
 #
